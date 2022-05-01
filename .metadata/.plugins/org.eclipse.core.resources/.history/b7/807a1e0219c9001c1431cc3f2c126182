@@ -1,0 +1,14 @@
+package problemStatement_8;
+
+public class Ps8_2ThreadCounter {
+
+	public static void main(String args[])
+
+	{
+
+	Counter counter = new Counter(25);
+
+	counter.run();
+
+	}
+}

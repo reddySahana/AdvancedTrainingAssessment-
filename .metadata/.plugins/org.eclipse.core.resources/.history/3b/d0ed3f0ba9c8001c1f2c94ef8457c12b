@@ -1,0 +1,8 @@
+package problemStatement_3;
+
+
+public abstract class Instrument {
+	
+	public abstract void Play();
+	
+	    }
